@@ -7,5 +7,6 @@
 
 
 ====== FREQUENTLY ASKED QUESTIONS ======
+
 Q: What is the purpose of EzTCG?
 A: EzTCG was created as an alternative to MyTCG that works with MySQLi right out of the gate. However, it comes with an admin panel that will match the website's main theme.
